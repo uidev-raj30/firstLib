@@ -1,2 +1,2 @@
-# firstLib
+# firstlib
 First Lib
